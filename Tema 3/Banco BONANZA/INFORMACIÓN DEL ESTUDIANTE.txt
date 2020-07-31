@@ -1,0 +1,13 @@
+
+
+Nombre: Anthony Delanoy Peralta Pérez
+
+Matricula: 100430840
+
+Materia: Laboratorio de Introducción a la Programación
+
+Código: INF-5110
+
+Sección: 13
+
+Profesor: Amancio Lorenzo Lorenzo
